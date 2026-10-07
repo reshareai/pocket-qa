@@ -1,0 +1,187 @@
+1
+00:00:00,600 --> 00:00:04,600
+Your app works on your phone
+
+2
+00:00:05,400 --> 00:00:06,858
+But your users have
+
+3
+00:00:06,858 --> 00:00:08,200
+every other phone
+
+4
+00:00:08,400 --> 00:00:09,917
+And a bug report never shows
+
+5
+00:00:09,917 --> 00:00:11,300
+the moment they got stuck
+
+6
+00:00:11,900 --> 00:00:14,558
+Pocket QA is a usability lab
+
+7
+00:00:14,558 --> 00:00:16,200
+in every pocket
+
+8
+00:00:16,900 --> 00:00:18,759
+Builders set the tasks
+
+9
+00:00:18,759 --> 00:00:20,551
+the devices they need
+
+10
+00:00:20,551 --> 00:00:22,941
+and a reward for approved work
+
+11
+00:00:22,941 --> 00:00:24,800
+then publish the study
+
+12
+00:00:26,200 --> 00:00:28,151
+Here it is on a Solana Seeker
+
+13
+00:00:28,151 --> 00:00:29,600
+from our Android APK
+
+14
+00:00:29,800 --> 00:00:31,354
+Testers link a devnet wallet
+
+15
+00:00:31,354 --> 00:00:32,954
+through Mobile Wallet Adapter
+
+16
+00:00:32,954 --> 00:00:34,600
+then save their device profile
+
+17
+00:00:34,800 --> 00:00:37,040
+They pick a matching study
+
+18
+00:00:37,040 --> 00:00:38,230
+and consent
+
+19
+00:00:38,230 --> 00:00:40,400
+Every session, every time
+
+20
+00:00:41,300 --> 00:00:42,552
+They do the tasks
+
+21
+00:00:42,552 --> 00:00:43,804
+record the screen
+
+22
+00:00:43,804 --> 00:00:45,600
+and say what got in the way
+
+23
+00:00:45,800 --> 00:00:47,612
+Nothing uploads
+
+24
+00:00:47,612 --> 00:00:50,200
+until they’ve checked it
+
+25
+00:00:50,900 --> 00:00:53,001
+Builders watch what really happened
+
+26
+00:00:53,001 --> 00:00:55,000
+and write the findings themselves
+
+27
+00:00:55,100 --> 00:00:56,594
+then approve
+
+28
+00:00:56,594 --> 00:00:59,000
+or reject with a reason
+
+29
+00:00:59,700 --> 00:01:01,861
+Once approved, the reward lands
+
+30
+00:01:01,861 --> 00:01:04,140
+in the tester’s simulated balance
+
+31
+00:01:04,140 --> 00:01:05,600
+No real money moves
+
+32
+00:01:06,500 --> 00:01:07,962
+Separately, the escrow
+
+33
+00:01:07,962 --> 00:01:09,320
+was tested on devnet
+
+34
+00:01:09,320 --> 00:01:11,200
+a two-of-three vault per study
+
+35
+00:01:11,300 --> 00:01:13,258
+Funding, payouts, fees and refunds
+
+36
+00:01:13,258 --> 00:01:14,140
+all verified
+
+37
+00:01:14,140 --> 00:01:16,000
+Devnet tokens have no cash value
+
+38
+00:01:16,700 --> 00:01:19,757
+Good work builds a reputation
+
+39
+00:01:19,757 --> 00:01:21,766
+ranked by quality
+
+40
+00:01:21,766 --> 00:01:23,600
+never by volume
+
+41
+00:01:24,300 --> 00:01:26,934
+It’s built and tested end to end
+
+42
+00:01:26,934 --> 00:01:29,360
+with a completed escrow pilot
+
+43
+00:01:29,360 --> 00:01:30,400
+on devnet
+
+44
+00:01:31,100 --> 00:01:32,094
+Pocket QA
+
+45
+00:01:32,094 --> 00:01:34,083
+Real phones, real people
+
+46
+00:01:34,083 --> 00:01:35,342
+real findings
+
+47
+00:01:35,342 --> 00:01:36,800
+Built for Seeker
