@@ -33,6 +33,11 @@
       body {
         background-color: #0b0a1f;
       }
+      /* The page never rubber-bands (Hamza): no elastic overscroll on the document. */
+      html,
+      body {
+        overscroll-behavior: none;
+      }
       @media (prefers-color-scheme: light) {
         html,
         body {
